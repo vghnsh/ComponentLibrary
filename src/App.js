@@ -62,7 +62,12 @@ export default function App() {
           <Button text='Secondary' color='secondary'></Button>
           <pre>{'<Button color="secondary">'}</pre>
         </span>
+        <span>
+          <Button text='Danger' color='danger'></Button>
+          <pre>{'<Button color="secondary">'}</pre>
+        </span>
       </section>
+     
     </div>
   );
 }
